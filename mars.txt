@@ -6,4 +6,4 @@ Some changes.
 
 Progress has been made.
 
-Let's create conflict.
+Conflict resolved.
